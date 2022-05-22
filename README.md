@@ -47,7 +47,7 @@ Cartucho cerrado y conectado a un Philips VG-8235
 ## Información extra
 
 Esquema de la placa a soldar encima del cartucho
-![](placa/esquema.png)
+![](placa/esquematico.png)
 
 Imagen de rayos X de la PCB. La imagen es a tamño real, a 600ppp
 ![](placa/placa.png)
