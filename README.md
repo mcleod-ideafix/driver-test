@@ -47,6 +47,8 @@ Detalle del cable que entra en la via para pasar al otro lado de la placa
 Detalle del cable ya soldado al pad CLK al otro lado de la placa
 ![](docs/detalle_cable_soldado_clk.jpg)
 
+Aunque en la CPLD se genera, y hay un pad en la placa, he comprobado que la señal BUSDIR no es necesaria.
+
 Cartucho cerrado y conectado a un Philips VG-8235
 ![](docs/cartucho_clon_funcionando.jpg)
 
