@@ -22,11 +22,11 @@ Créditos de estas fotos, a quien corresponda. No son mías.
 ## Montaje
 El cartucho original consta de una EPROM tipo 27512, de 64K x 8 bits, y circuitería extra que funciona según el esquema adjunto:
 ![esquema informal del circuito extra del cartucho](docs/esquema_circuito_driver_test.jpg)
-NOTA: tras sintetizar este circuito en la CPLD, me di cuenta de que el divisor no es entre 32768 (15 bits) sino entre 16384 (14 bits). En la CPLD esto ya está corregido.
+**NOTA:** tras sintetizar este circuito en la CPLD, me di cuenta de que el divisor no es entre 32768 (15 bits) sino entre 16384 (14 bits). En la CPLD esto ya está corregido.
 
-Para hacer el clon de este cartucho, me he basado en un ![kit estándar para hacer cartuchos de MSX](https://www.ebsoft.fr/shop/es/home/28-msx-cartridge-kit-16-64k.html). La placa diseñada se suelda encima de esta otra. En el directorio *placa* están los esquemáticos, layout, y gerbers para fabricarla. El fichero JED a grabar en la CPLD está en el directorio *cpld*, junto con el código en Verilog y el proyecto para ISE.
+Para hacer el clon de este cartucho, me he basado en un ![kit estándar para hacer cartuchos de MSX](https://www.ebsoft.fr/shop/es/home/28-msx-cartridge-kit-16-64k.html). La placa diseñada se suelda encima de esta otra. En el directorio **placa** están los esquemáticos, layout, y gerbers para fabricarla. El fichero JED a grabar en la CPLD está en el directorio **cpld**, junto con el código en Verilog y el proyecto para ISE.
 
-Placa con la circuitería extra. Al fabricar la PCB, pedir que tenga un grosor no mayor de 1mm (en lugar del habitual de 1.6mm).
+Placa con la circuitería extra. Al fabricar la PCB, pedir que tenga un **grosor no mayor de 1mm** (en lugar del habitual de 1.6mm).
 ![](docs/placa.jpg)
 
 Placa presentada en el lugar donde será soldada en la PCB del cartucho principal.
