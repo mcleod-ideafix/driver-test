@@ -7,11 +7,17 @@ Necesita un MSX-2 para funcionar. Probado en un Philips VG-8235. También probad
 Mi cartucho venía enterrado hasta la mitad en epoxy blanco, con lo que me era imposible trazar el esquema del circuito extra. Afortunadamente, encontré en internet fotos de otros cartuchos, algunos de ellos completamente "limpios". Gracias a dichas fotos pude terminar de sacar el esquema.
 
 Créditos de estas fotos, a quien corresponda. No son mías.
+
 ![](docs/cartucho_cara_componentes.jpg)
+
 ![](docs/cartucho_cara_pistas.jpg)
+
 ![](docs/msx2_driver_test_7.jpg)
+
 ![](docs/otro_cara_comp.jpg)
+
 ![](docs/otro_cara_pistas.jpg)
+
 
 ## Montaje
 El cartucho original consta de una EPROM tipo 27512, de 64K x 8 bits, y circuitería extra que funciona según el esquema adjunto:
