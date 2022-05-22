@@ -30,7 +30,7 @@ El circuito en el cartucho no usa la señal /RD para distinguir entre un ciclo d
 
 ## Montaje
 
-Para hacer el clon de este cartucho, me he basado en un ![kit estándar para hacer cartuchos de MSX](https://www.ebsoft.fr/shop/es/home/28-msx-cartridge-kit-16-64k.html). La placa diseñada se suelda encima de esta otra. En el directorio **placa** están los esquemáticos, layout, y gerbers para fabricarla. El fichero JED a grabar en la CPLD está en el directorio **cpld**, junto con el código en Verilog y el proyecto para ISE.
+Para hacer el clon de este cartucho, me he basado en un ![kit estándar para hacer cartuchos de MSX](https://www.ebsoft.fr/shop/es/home/28-msx-cartridge-kit-16-64k.html). La placa diseñada se suelda encima de esta otra. En el directorio **placa** están los esquemáticos, layout, y gerbers para fabricarla. El fichero JED a grabar en la CPLD está en el directorio **cpld**, junto con el código en Verilog y el proyecto para ISE. El volcado de la ROM que hay que grabar en la flash EPROM está en el directorio **docs**.
 
 Placa con la circuitería extra. Al fabricar la PCB, pedir que tenga un **grosor no mayor de 1mm** (en lugar del habitual de 1.6mm).
 ![](docs/placa.jpg)
