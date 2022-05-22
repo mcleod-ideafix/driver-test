@@ -41,6 +41,12 @@ Placa presentada en el lugar donde será soldada en la PCB del cartucho principa
 Placa completamente soldada. El cable que parece desaparecer por una via, va soldado al pad CLK del cartucho por el otro lado.
 ![](docs/placa_soldada.jpg)
 
+Detalle del cable que entra en la via para pasar al otro lado de la placa
+![](docs/detalle_cable_en_via.jpg)
+
+Detalle del cable ya soldado al pad CLK al otro lado de la placa
+![](docs/detalle_cable_soldado_clk.jpg)
+
 Cartucho cerrado y conectado a un Philips VG-8235
 ![](docs/cartucho_clon_funcionando.jpg)
 
